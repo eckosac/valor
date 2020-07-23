@@ -1,0 +1,16 @@
+{
+	"prefix": "!",
+	
+	"owner_id": "457676728228249604",
+
+	"bot_token": "NzM1NjgzNjkyNzQzMDk4NDM4.Xxj4UQ.jXWBgf7_jyAiGFG1BAa9lydjWtc",
+	"rblx_cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkNjQwODg2NC1hZmYyLTRjNTMtODAwMy0zNzRlMGM2ODkzNDQiLCJzdWIiOjU1NjM4MTA1MH0.OtULyCr-J_TtqVswcnaS5E6IfupfeE60PyBgIzambis",
+	"firebase_url": "https://valor-a36a6.firebaseio.com",
+	"bot_picture": "https://t5.rbxcdn.com/09fdcb3be290857df6e46b2fd7edf90e",
+
+	"officer_role": "Officer",
+	"high_command_role": "High Command",
+
+	"experience_name": "XP",
+	"max_experiencePoints": 15,
+	"demoteUsers": true
